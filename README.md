@@ -1,4 +1,5 @@
 # TPxNN
+<pre>
 TP's NeuralNetwork Library
 Class :
   Matrix(self,row,col)
@@ -10,3 +11,4 @@ Class :
    NeuralNetwork(self,listofachitecture)
     attribute -> self.lr = 0.1
                  etc... ( internal variables )
+</pre>
